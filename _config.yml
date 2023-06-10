@@ -1,1 +1,9 @@
-remote_theme: tufte-jekyll
+remote_theme: clayh53/tufte-jekyll
+markdown: GFM
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+
+  
+title: test-site
+description: test-site
