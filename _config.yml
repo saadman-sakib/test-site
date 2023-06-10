@@ -7,3 +7,5 @@ plugins:
   
 title: test-site
 description: test-site
+mathjax: true
+lato_font_load: true
